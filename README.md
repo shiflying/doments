@@ -1,3 +1,6 @@
+
+[TOC]
+
 # doments repository's 说明 #
 用于markdown文档多人协作及版本控制
 It is very good.
